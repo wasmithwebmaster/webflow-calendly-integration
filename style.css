@@ -1,0 +1,8 @@
+.calendly-inline-widget iframe {
+  overflow: hidden !important;
+}
+
+.calendly-inline-widget {
+  min-height: 700px !important;
+  height: 700px !important;
+}
